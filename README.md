@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/gonojowar/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Gonojowar](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/gonojowar/) |
+| **Get License** | [Obtain a Music License for Gonojowar](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/gonojowar/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> অচিন দেশে মেঘের ছায়া, মাতাল করা হাওয়া
+> তোমার চোখে স্বপ্ন আমার, তোমায় শুধু পাওয়া
+> অবুঝ মনে প্রেমের আগুন, জ্বলছে সারা রাত
+> খুঁজে বেড়াই তোমার মায়া, বাড়িয়ে দুটো হাত
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
