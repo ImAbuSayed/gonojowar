@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/gonojowar/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Gonojowar](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/gonojowar/) |
+| **Get License** | [License this song: Gonojowar](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/gonojowar/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `e4429072815a202c98c8b2f7000f28f68654cb64e8eb9d78b7f11da94f4656de` |
 | **Timestamp** | May 12, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
